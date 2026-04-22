@@ -1,9 +1,9 @@
 const cars= [
-    {name:"8R", type:"hatchback", image:"VW.jpg", make:"VW"},
+    {name:"Beetle", type:"hatchback", image:"VW.jpg", make:"VW"},
     {name:"320i", type:"sedan", image:"BMW.jpg", make:"BMW" },
-    {name:"A45S", type:"sports", image:"BENZ.png", make:"Benz" },
+    {name:"MFWR", type:"sports", image:"BENZ.png", make:"Benz" },
     {name:"RS6", type:"hatchback", image:"AUDI.jpg", make:"Audi" },
-    {name:"SHELBY", type:"sportsback", image:"FORD.jpg", make:"Ford" },
+    {name:"challenger", type:"sportsback", image:"FORD.jpg", make:"Ford" },
     {name:"SUPRA", type:"sportsback", image:"TOYOTA.jpg", make:"Toyota" },
 ];
 //loading the elements
