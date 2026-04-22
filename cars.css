@@ -1,4 +1,7 @@
 #car-img{
     width: 420px;
-    height: 42;
+    height: 400px;
+}
+body{
+    justify-items: center;
 }
